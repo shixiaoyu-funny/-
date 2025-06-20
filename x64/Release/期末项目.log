@@ -1,0 +1,9 @@
+﻿  Functions.cpp
+D:\vs.2022\vs.program\期末项目\期末项目\Functions.cpp(395,15): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+D:\vs.2022\vs.program\期末项目\期末项目\Functions.cpp(505,15): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+  正在生成代码
+  2 of 748 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  期末项目.vcxproj -> D:\vs.2022\vs.program\期末项目\x64\Release\期末项目.exe

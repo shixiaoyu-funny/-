@@ -1,0 +1,13 @@
+#pragma once
+void Login();
+void stuRegister();
+void teaRegister();
+void studentFunction();
+void teacherFunction();
+void selectCourse();
+void lookSelectedCourse();
+bool studentLogin();
+bool teacherLogin();
+void lookStudentInfo();
+void dbInit();
+void dbClose();

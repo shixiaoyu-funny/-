@@ -1,0 +1,7 @@
+﻿  App.cpp
+  Course.cpp
+  Functions.cpp
+D:\vs.2022\vs.program\期末项目\期末项目\Functions.cpp(394,15): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+D:\vs.2022\vs.program\期末项目\期末项目\Functions.cpp(504,15): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  期末项目.vcxproj -> D:\vs.2022\vs.program\期末项目\x64\Debug\期末项目.exe
